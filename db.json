@@ -1,0 +1,28 @@
+{
+    "users":[
+        {
+            "id":1,
+            "name:":"ishika shrivastava",
+            "username":"kayasth",
+            "email":"ishika@gmail.com",
+            "phone":"123456789",
+            "website":"ishika.com"
+        },
+        {
+            "id":2,
+            "name:":"sajal shrivastava",
+            "username":"sajal_kayasth",
+            "email":"sajal@gmail.com",
+            "phone":"678912345",
+            "website":"sajal.com"
+        },
+        {
+            "id":3,
+            "name:":"ashok shrivastava",
+            "username":"ashok_kayasth",
+            "email":"ashok@gmail.com",
+            "phone":"987654321",
+            "website":"ashok.com"
+        }
+    ]
+}
